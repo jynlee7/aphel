@@ -1,0 +1,3 @@
+# begin installing discord.py
+pip install -U discord.py
+
